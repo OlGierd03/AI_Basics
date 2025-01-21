@@ -8,17 +8,6 @@
 * [Algorytmy rekomendacyjne](lab6/Readme.md)
 * [Podejmowanie decyzji](lab7/Readme.md)
 
-# Zasady zaliczania laboratoriów
-
-Zasady zaliczania laboratoriów dostępne są w dokumencie przypisanym do kursu na Teamsach.
-
-# Prowadzący
-
-* dr inż. Aleksander Smywiński-Pohl
-* dr inż. Mateusz Jarosz
-* mgr inż. Jakub Adamczyk
-* mgr inż. Mykola Haltiuk
-
 # Setup środowiska wirtualnego 
 
 #### Instalacja poetry
